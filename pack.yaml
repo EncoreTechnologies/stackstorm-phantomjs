@@ -6,7 +6,7 @@ keywords:
   - phantomjs
   - browser
   - headless browser
-version: 1.0.0
+version: 1.0.1
 author: Tomaz Muraus
 email: tomaz@tomaz.me
 python_versions:
