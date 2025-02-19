@@ -2,7 +2,7 @@
 
 ## 1.0.1
 
-* Updated files to work with latest CI updates
+* Updated files to work with latest CI updates.
 
 ## 1.0.0
 
